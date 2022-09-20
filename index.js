@@ -11,4 +11,4 @@ console.log("Time left before New Year: " + Math.floor((dateNewYear - dateNow) /
 	+ Math.floor((dateNewYear - dateNow) % (days) % (hours) / (mins)) + " minutes "
 	+ Math.floor((dateNewYear - dateNow) % (days) % (hours) % (mins) / (secs)) + " seconds");
 	
-console.lod("Updated.");
+console.log("Updated.");
