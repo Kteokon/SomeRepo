@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Kteokon/SomeRepo#readme",
   "dependencies": {
     "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
   }
 }
