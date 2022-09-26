@@ -1,4 +1,4 @@
-export function daysLeft(date){
+export function daysLeft(date: Date){
     const dateNewYear = new Date(date.getFullYear() + 1, 0, 1, 0, 0, 0, 0);
         
     const secs = 1000,
